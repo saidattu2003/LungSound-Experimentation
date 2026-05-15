@@ -81,7 +81,18 @@ The models are evaluated using:
 
 ## Results
 
+The following results were obtained from the experimentation process:
+
+| Model         | Accuracy |
+| ------------- | -------- |
+| SVM           | 87.66%   |
+| Naive Bayes   | 74.95%   |
+| KNN           | 86.75%   |
+| Decision Tree | 85.84%   |
+| 1D CNN        | **88.57% **  |
+
 According to the experiments performed in the notebook, the 1D CNN model achieved the best overall performance compared to the traditional machine learning models.
+
 
 ## Future Improvements
 

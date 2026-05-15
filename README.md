@@ -89,7 +89,7 @@ The following results were obtained from the experimentation process:
 | Naive Bayes   | 74.95%   |
 | KNN           | 86.75%   |
 | Decision Tree | 85.84%   |
-| 1D CNN        | ** 88.57% **  |
+| 1D CNN        | **88.57%**  |
 
 According to the experiments performed in the notebook, the 1D CNN model achieved the best overall performance compared to the traditional machine learning models.
 
